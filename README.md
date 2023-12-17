@@ -1,5 +1,5 @@
 # Wordle
-Wordle using Pandionj
+Termo(Wordle but in portuguese) using Pandionj
 
 To play Wordle utilizing PandionJ, ensure you have Eclipse installed and integrate PandionJ perspective.
 
